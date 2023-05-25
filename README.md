@@ -26,6 +26,7 @@ Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesq
 - ``Power Point``
 - ``Fireworks``
 - ``Power BI``
+- ``Github``
 
 
 ## 📁 Acesso aos Arquivos do Projeto
