@@ -32,6 +32,6 @@ Link do Trello que foi utilizado como Kanban: https://trello.com/b/XZZqzSYO/pesq
 :file_folder:  [Imagens utilizadas no Projeto](https://github.com/RafsDuarte/Projeto_Integrador_Gama-Ipiranga/tree/Imgs)<br>
 :file_folder:  [Banco de Dados do Projeto](https://github.com/WSantosRJ/Projeto_Integrador_Gama-Ipiranga/tree/master/Imgs)<br>
 :floppy_disk:  [Dashboard feito em Power BI](https://github.com/WSantosRJ/Projeto_Integrador_Gama-Ipiranga/blob/master/Dashboards-Pesq-App-Ipiranga-Abasteceai.pbix)<br>
-:floppy_disk:  [Apresentação do Projeto](https://github.com/WSantosRJ/Projeto_Integrador_Gama-Ipiranga/blob/master/Apresentacao.pptx)
+:floppy_disk:  [Apresentação do Projeto](https://github.com/WSantosRJ/Projeto_Integrador_Gama-Ipiranga/blob/master/Apresentacao.pptx)<br>
 :floppy_disk:  [Formulário da Pesquisa realizada no Google Form](https://github.com/WSantosRJ/Projeto_Integrador_Gama-Ipiranga/blob/master/formulario-pesquisa.pdf)<br>
 :floppy_disk:  [Layouts utilizados no Dashboard](https://github.com/WSantosRJ/Projeto_Integrador_Gama-Ipiranga/blob/master/layout.pptx)
