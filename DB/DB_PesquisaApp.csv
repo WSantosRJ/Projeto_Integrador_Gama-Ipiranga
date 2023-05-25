@@ -1,0 +1,101 @@
+﻿Data;NomeCompleto;Idade;Genero;Cidade;UF;ConheceApp;UsaApp;FacilidadeNavegacao;AbastecerFacilidade;ProblemaTecnico;SegurancaDados;PromocaoApp;FidelidadeApp;RecursosNovos;VelocidadeApp;NovosPrecosCombustivel;FacilidadeLocalizacaoPosto;Avaliacao;NPS
+2023/05/08 10:44:53 AM GMT-3;Caroline Aragão ;35;Feminino;Rio de Janeiro;RJ;Sim;Sim;Satisfeito;Pode Melhorar;Sim;Não sei;Sim;Não;Sim;Satisfeito;Sim;Sim;8;Neutros
+2023/05/08 11:03:45 AM GMT-3;Rafael Duarte;26;Masculino;Resende ;RJ;Sim;Sim;Muito Satisfeito;Sim;Não;Sim;Sim;Desconheço;Sim;Muito Satisfeito;Não;Sim;5;Detratores
+2023/05/08 11:13:42 AM GMT-3;Wanderson Alberto Silveira Andrade Santos;48;Masculino;Rio de Janeiro;RJ;Sim;Sim;Muito Satisfeito;Pode Melhorar;Sim;Não sei;Não;Sim;Sim;Muito Satisfeito;Sim;Sim;9;Promotores
+2023/05/08 12:03:07 PM GMT-3;Diego Novais ;25;Masculino;São Paulo;SP;Sim;Sim;Satisfeito;Sim;Não;Sim;Não;Sim;Não;Satisfeito;Sim;Não;8;Neutros
+2023/05/08 12:03:43 PM GMT-3;Daniel Vale;35;Masculino;Londrina ;PR;Sim;Sim;Satisfeito;Pode Melhorar;Não;Não sei;Desconheço essas promoções;Desconheço;Não;Regular;Não;Desconheço Função;5;Detratores
+2023/05/08 12:07:55 PM GMT-3;Francielly Schaeffer;38;Feminino;Rio de Janeiro ;RJ;Não;Não;;;;;;;;;;;;
+2023/05/08 12:13:54 PM GMT-3;Marcio Willian Alves;40;Masculino;Guarulhos;SP;Sim;Sim;Regular;Pode Melhorar;Sim;Não sei;Desconheço essas promoções;Sim;Não;Regular;Sim;Desconheço Função;6;Detratores
+2023/05/08 12:19:01 PM GMT-3;Mike Martins Rodrigues;30;Masculino;Sertãozinho SP;SP;Não;Não;;;;;;;;;;;;
+2023/05/08 12:31:11 PM GMT-3;Gustavo Sbravati;32;Masculino;São José dos Campos ;SP;Sim;Sim;Neutro;Pode Melhorar;Sim;Sim;Desconheço essas promoções;Não;Sim;Insatisfeito;Não;Desconheço Função;7;Neutros
+2023/05/08 12:37:28 PM GMT-3;Cesar;40;Masculino;Salto;SP;Não;Não;;;;;;;;;;;;
+2023/05/08 1:14:30 PM GMT-3;Ygor Costa da Silva Rodrigues ;35;Masculino;Nilopolis ;RJ;Sim;Sim;Satisfeito;Pode Melhorar;Não;Sim;Sim;Sim;Sim;Satisfeito;Sim;Sim;9;Promotores
+2023/05/08 1:19:39 PM GMT-3;Elaini Barbosa da Silva;39;Feminino;Jacareí;SP;Sim;Sim;Neutro;Sim;Não;Não sei;Desconheço essas promoções;Desconheço;Não;Neutro;Sim;Desconheço Função;7;Neutros
+2023/05/08 1:41:17 PM GMT-3;Laerte de Moura David ;42;Masculino;São José dos Campos ;SP;Não;Não;;;;;;;;;;;;
+2023/05/08 1:58:41 PM GMT-3;LUIZ CARDOSO COELHO ;28;Masculino;MUCUGE;BA;Não;Não;;;;;;;;;;;;
+2023/05/08 2:00:10 PM GMT-3;Aline Corrêa de Araújo ;38;Feminino;São José dos Campos ;SP;Sim;Sim;Satisfeito;Sim;Não;Sim;Não;Não;Sim;Satisfeito;Sim;Sim;8;Neutros
+2023/05/08 2:03:10 PM GMT-3;Antônio Carlos da Silva ;45;Masculino;Jacareí ;SP;Não;Não;;;;;;;;;;;;
+2023/05/08 3:02:24 PM GMT-3;ANDREA BOGOSSIAN KHALIL;54;Feminino;Rio de Janeiro;RJ;Não;Não;;;;;;;;;;;;
+2023/05/08 3:30:01 PM GMT-3;Maiara Viegas ;32;Feminino;Porto Alegre ;RS;Sim;Sim;Insatisfeito;Não;Sim;Não;Sim;Sim;Sim;Insatisfeito;Não;Sim;4;Detratores
+2023/05/08 3:32:34 PM GMT-3;Henrique Bosco Reis Imbassahy ;76;Masculino;Rio de Janeiro ;RJ;Não;Não;;;;;;;;;;;;
+2023/05/08 3:40:44 PM GMT-3;Huan Salvino;27;Masculino;Mamanguape;PB;Sim;Não;;;;;;;;;;;;
+2023/05/08 3:48:48 PM GMT-3;Ana Sheila Dias Ribeiro ;36;Feminino;Belford roxo ;RJ ;Sim;Sim;Muito Satisfeito;Sim;Não;Sim;Desconheço essas promoções;Não;Não;Muito Satisfeito;Sim;Sim;10;Promotores
+2023/05/08 4:39:10 PM GMT-3;Valdir ANDRADE Santos;71;Masculino;Rio de Janeiro;RJ;Sim;Sim;Satisfeito;Sim;Sim;Não sei;Sim;Sim;Sim;Satisfeito;Não;Não;9;Promotores
+2023/05/08 5:06:47 PM GMT-3;Ronan Lutiane ;36;Masculino;Belo Horizonte ;MG ;Sim;Sim;Neutro;Pode Melhorar;Não;Não sei;Sim;Não;Não;Satisfeito;Não;Desconheço Função;6;Detratores
+2023/05/08 6:18:58 PM GMT-3;Roberto;50;Masculino;São José dos Campos ;SP;Não;Não;;;;;;;;;;;;
+2023/05/08 11:34:10 PM GMT-3;Kawan Araujo dos Santos;19;Masculino;São Paulo;SP;Não;Não;;;;;;;;;;;;
+2023/05/09 8:58:17 AM GMT-3;Rachel Emilia ;38;Feminino;São Gonçalo ;RJ ;Sim;Sim;Neutro;Pode Melhorar;Não;Não sei;Não;Não;Não;Neutro;Não;Desconheço Função;10;Promotores
+2023/05/09 8:59:24 AM GMT-3;Guilherme ;29;Masculino;Guarulhos ;SP;Sim;Sim;Satisfeito;Sim;Não;Não sei;Sim;Não;Não;Satisfeito;Não;Não;8;Neutros
+2023/05/09 9:02:31 AM GMT-3;Elaini Barbosa da Silva;41;Feminino;Jacareí ;SP;Sim;Sim;Neutro;Sim;Não;Não sei;Desconheço essas promoções;Desconheço;Não;Neutro;Não;Desconheço Função;6;Detratores
+2023/05/09 9:21:54 AM GMT-3;Aline Corrêa de Araújo ;28;Feminino;São José dos Campos ;SP;Sim;Não;;;;;;;;;;;;
+2023/05/09 9:26:27 AM GMT-3;Adão Duque;33;Masculino;São Paulo;SP;Não;Não;;;;;;;;;;;;
+2023/05/09 10:24:50 AM GMT-3;Gisele Karen Gonçalves ;25;Feminino;São José dos Campos ;SP;Não;Não;;;;;;;;;;;;
+2023/05/09 10:34:03 AM GMT-3;Alan Francisco Kreuch ;28;Masculino;Blumenau ;SC ;Sim;Não;;;;;;;;;;;;
+2023/05/09 10:39:42 AM GMT-3;Eliel Medeiros e Silva;29;Masculino;Campos dos Goytacazes ;RJ;Não;Não;;;;;;;;;;;;
+2023/05/09 12:14:48 PM GMT-3;Anderson Soares de Oliveira;24;Masculino;Jacareí;SP;Não;Não;;;;;;;;;;;;
+2023/05/09 12:35:44 PM GMT-3;Marcia Cristina Busulin veltre ;52;Feminino;Araraquara ;SP;Sim;Sim;Muito Satisfeito;Sim;Não;Sim;Sim;Não;Não;Muito Satisfeito;Não;Não;10;Promotores
+2023/05/09 12:57:37 PM GMT-3;francisco chaves;28;Masculino;toledo;PR;Sim;Sim;Neutro;Não;Não;Não sei;Desconheço;Desconheço;Não;Neutro;Não;Desconheço Função;9;Promotores
+2023/05/09 12:57:53 PM GMT-3;Luis Jorge;50;Masculino;Fortaleza ;CE;Não;Não;;;;;;;;;;;;
+2023/05/09 12:57:54 PM GMT-3;Jackson jean garcia vale;31;Masculino;Rio de Janeiro;RJ;Não;Não;;;;;;;;;;;;
+2023/05/09 12:59:46 PM GMT-3;Andre Rafael Douve;44;Masculino;Santa Bárbara ;MG;Não;Não;;;;;;;;;;;;
+2023/05/09 1:14:46 PM GMT-3;Arhtur Braum dos Reis;22;Masculino;São Leopoldo;RS;Não;Não;;;;;;;;;;;;
+2023/05/09 1:31:38 PM GMT-3;Lucas Alves da Costa;27;Masculino;Barra mansa;RJ;Sim;Sim;Neutro;Sim;Não;Sim;Sim;Não;Sim;Satisfeito;Sim;Sim;9;Promotores
+2023/05/09 1:38:15 PM GMT-3;Flávio Lopes da Silva ;38;Masculino;Santa Maria ;DF;Sim;Não;;;;;;;;;;;;
+2023/05/09 1:40:30 PM GMT-3;Ademário Nobre;40;Masculino;Mossoró;RN;Sim;Não;;;;;;;;;;;;
+2023/05/09 1:43:34 PM GMT-3;Katia Moura;42;Feminino;Taubate;SP;Sim;Não;;;;;;;;;;;;
+2023/05/09 1:54:26 PM GMT-3;ARISTIDES AUGUSTO ANDREATTA ;61;Masculino;Rio de Janeiro ;RJ;Não;Não;;;;;;;;;;;;
+2023/05/09 1:54:56 PM GMT-3;LUZINETE ROCHA DA SILVA ;33;Feminino;Brasília;DF;Sim;Não;;;;;;;;;;;;
+2023/05/09 2:29:09 PM GMT-3;Suely lippi marques de medeiros;75;Feminino;Rio de Janeiro;RJ;Sim;Sim;Neutro;Sim;Não;Não sei;Desconheço;Desconheço;Não;Neutro;Sim;Desconheço Função;9;Promotores
+2023/05/09 2:48:44 PM GMT-3;Joager Paukoski;23;Masculino;São Paulo;SP;Sim;Não;;;;;;;;;;;;
+2023/05/09 3:33:51 PM GMT-3;MARIA ANGELA DA CONCEIÇÃO MOREIRA;43;Feminino;São josé;SC;Não;Não;;;;;;;;;;;;
+2023/05/09 3:41:01 PM GMT-3;Gustavo Fernandes Santos ;21;Masculino;Belém;PA;Não;Não;;;;;;;;;;;;
+2023/05/09 3:41:06 PM GMT-3;Rodrigo;22;Masculino;Goiânia;GO;Não;Não;;;;;;;;;;;;
+2023/05/09 3:41:17 PM GMT-3;bianca souza santos;25;Feminino;São Paulo;SP;Sim;Não;;;;;;;;;;;;
+2023/05/09 3:45:30 PM GMT-3;Carolina Abreu de paula;32;Feminino;Brasília;DF;Sim;Sim;Muito Satisfeito;Sim;Sim;Não sei;Não;Sim;Não;Satisfeito;Não;Sim;9;Promotores
+2023/05/09 3:47:32 PM GMT-3;Luciene Moreira de Melo ;33;Feminino;São Paulo ;SP;Não;Não;;;;;;;;;;;;
+2023/05/09 4:40:16 PM GMT-3;Alexandre Salema;53;Masculino;Rio de Janeiro;RJ;Sim;Sim;Satisfeito;Sim;Sim;Não sei;Sim;Sim;Não;Satisfeito;Sim;Sim;8;Neutros
+2023/05/09 4:43:07 PM GMT-3;Sidney de Jesus Queiros;58;Masculino;Salvador;BA;Sim;Não;;;;;;;;;;;;
+2023/05/09 4:43:27 PM GMT-3;Priscila Caruso Marins ;29;Feminino;Rio de Janeiro ;RJ;Não;Não;;;;;;;;;;;;
+2023/05/09 5:06:39 PM GMT-3;Emerson Ramazotti ;50;Masculino;Santo André ;SP;Sim;Sim;Neutro;Pode Melhorar;Não;Sim;Não;Sim;Sim;Satisfeito;Sim;Desconheço Função;7;Neutros
+2023/05/09 5:16:27 PM GMT-3;Anna Graziella Martins Pereira ;42;Feminino;Rio de Janeiro ;RJ;Sim;Não;;;;;;;;;;;;
+2023/05/09 7:43:22 PM GMT-3;Giancarlo Bervian;48;Masculino;Brasília;DF;Sim;Sim;Satisfeito;Sim;Sim;Não sei;Sim;Sim;Não;Neutro;Não;Desconheço Função;7;Neutros
+2023/05/09 7:43:45 PM GMT-3;Diego Oliveira Gomes;36;Masculino;Governador Valadares;MG;Sim;Sim;Satisfeito;Pode Melhorar;Não;Não sei;Sim;Não;Sim;Neutro;Não;Sim;8;Neutros
+2023/05/09 7:46:05 PM GMT-3;Elias da Cunha Bueno;35;Masculino;Macaé;RJ;Não;Não;;;;;;;;;;;;
+2023/05/09 7:48:08 PM GMT-3;Danilo Barreto;19;Masculino;São Bernardo do Campo;SP;Não;Não;;;;;;;;;;;;
+2023/05/09 7:57:23 PM GMT-3;Matheus Kroeff;26;Masculino;Criciúma ;SC;Sim;Sim;Satisfeito;Sim;Sim;Não sei;Sim;Sim;Não;Neutro;Não;Não;8;Neutros
+2023/05/09 8:05:16 PM GMT-3;Farney Victor Sobral dos Santos;25;Masculino;São Paulo;SP;Sim;Não;;;;;;;;;;;;
+2023/05/09 9:16:24 PM GMT-3;Ediney magno Tavares ;47;Masculino;São José ;SC;Não;Não;;;;;;;;;;;;
+2023/05/09 10:09:10 PM GMT-3;Maria Rosangela da Conceição Moreira;50;Feminino;Belém;PA;Sim;Sim;Satisfeito;Sim;Sim;Não sei;Desconheço;Desconheço;Não;Satisfeito;Sim;Sim;7;Neutros
+2023/05/09 11:16:59 PM GMT-3;Antonio Marinho;69;Masculino;Rio de Janeiro;RJ;Sim;Não;;;;;;;;;;;;
+2023/05/10 7:59:50 PM GMT-3;André Miguel;46;Masculino;Curitiba;PR;Sim;Sim;Muito Insatisfeito;Não;Não;Não sei;Desconheço;Desconheço;Sim;Muito Insatisfeito;Não;Desconheço Função;2;Detratores
+2023/05/11 11:43:51 AM GMT-3;Pablo José do Nascimento;24;Masculino;Jales;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 11:46:04 AM GMT-3;Icaro Martins;38;Masculino;Brasília;DF;Não;Não;;;;;;;;;;;;
+2023/05/11 11:46:42 AM GMT-3;Valdecir Bernardi ;50;Masculino;Canoas;Rs;Sim;Não;;;;;;;;;;;;
+2023/05/11 11:48:48 AM GMT-3;Tatiana Tiemi Kato Nishihira ;39;Feminino;Guarulhos ;SP;Sim;Não;;;;;;;;;;;;
+2023/05/11 11:56:01 AM GMT-3;Mariene Ferreira da Silva;52;Feminino;São José dos Campos ;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 11:58:49 AM GMT-3;Rinaldo  somma ;50;Masculino;São José dos Campos;SP;Sim;Sim;Satisfeito;Pode Melhorar;Não;Não sei;Não;Não;Sim;Satisfeito;Não;Sim;8;Neutros
+2023/05/11 11:59:11 AM GMT-3;Daniel Santos;45;Masculino;São José dos Campos ;SP;Sim;Sim;Satisfeito;Sim;Não;Não sei;Não;Sim;Não;Neutro;Sim;Sim;8;Neutros
+2023/05/11 12:02:18 PM GMT-3;Maysa Gabriela Lucas Izaías ;20;Feminino;Sorocaba ;SP;Sim;Sim;Satisfeito;Sim;Não;Sim;Sim;Desconheço;Não;Satisfeito;Sim;Sim;8;Neutros
+2023/05/11 12:02:58 PM GMT-3;Thiago Henrique Domingues ;40;Masculino;Pradópolis ;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 12:06:03 PM GMT-3;Joyce;40;Feminino;São José dos Campos;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 12:08:09 PM GMT-3;Talita Navarro;42;Feminino;Jacareí;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 12:09:43 PM GMT-3;Edson Ferreira da Silva ;50;Masculino;Recife ;PE;Sim;Não;;;;;;;;;;;;
+2023/05/11 12:13:47 PM GMT-3;Ana Carolina Salafica;26;Feminino;Ribeirão Preto;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 12:15:22 PM GMT-3;Maria glorecida marques de amorim;64;Feminino;São José dos Campos ;SP;Sim;Sim;Muito Satisfeito;Sim;Sim;Sim;Não;Não;Sim;Satisfeito;Sim;Sim;10;Promotores
+2023/05/11 12:30:18 PM GMT-3;Lucas Ramos ;33;Masculino;Cajamar ;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 12:40:21 PM GMT-3;Ana Azeredo;53;Feminino;Belo Horizonte ;BH;Sim;Não;;;;;;;;;;;;
+2023/05/11 12:42:17 PM GMT-3;Maria Lilian Oliveira Queiroz melo ;54;Feminino;São José dos Campos ;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 12:43:49 PM GMT-3;Huilianni Gonçalves;36;Feminino;João Pessoa;PB;Sim;Não;;;;;;;;;;;;
+2023/05/11 12:46:35 PM GMT-3;Leonardo Azevedo Di Giorgi;23;Masculino;São Paulo;SP;Sim;Sim;Neutro;Sim;Não;Sim;Não;Desconheço;Sim;Satisfeito;Sim;Sim;7;Neutros
+2023/05/11 1:29:14 PM GMT-3;Roberto Nisti;49;Masculino;São Paulo;SP;Sim;Sim;Satisfeito;Pode Melhorar;Não;Não sei;Sim;Sim;Não;Neutro;Não;Desconheço Função;5;Detratores
+2023/05/11 1:51:25 PM GMT-3;Carlos Nunes;40;Masculino;Rio de Janeiro ;RJ;Sim;Não;;;;;;;;;;;;
+2023/05/11 1:52:39 PM GMT-3;Cássio Luis Duarte ;62;Masculino;Resende ;RJ;Não;Não;;;;;;;;;;;;
+2023/05/11 2:13:13 PM GMT-3;Felipe Magno Moreira Tavares ;20;Masculino;São José ;SC;Sim;Sim;Muito Satisfeito;Sim;Sim;Sim;Sim;Sim;Sim;Muito Satisfeito;Sim;Sim;10;Promotores
+2023/05/11 2:43:25 PM GMT-3;Eder Gonçalves Pereira ;39;Masculino;São José dos Campos ;SP;Não;Não;;;;;;;;;;;;
+2023/05/11 3:37:29 PM GMT-3;João Luccas Tavares Gomes ;28;Masculino;São José ;SC ;Sim;Sim;Satisfeito;Sim;Não;Sim;Não;Não;Não;Neutro;Sim;Sim;9;Promotores
+2023/05/11 4:07:45 PM GMT-3;Christian France pereira ;45;Masculino;São José dos Campos ;SP;Sim;Sim;Neutro;Pode Melhorar;Não;Não sei;Desconheço;Desconheço;Não;Neutro;Não;Desconheço Função;10;Promotores
+2023/05/11 4:29:57 PM GMT-3;Bruna Costa;24;Feminino;João Pessoa;PB;Sim;Sim;Satisfeito;Sim;Não;Sim;Desconheço;Desconheço;Não;Neutro;Sim;Desconheço Função;8;Neutros
+2023/05/11 4:57:15 PM GMT-3;Thiago Reis dos Santos;35;Masculino;São Paulo;SP;Sim;Sim;Satisfeito;Pode Melhorar;Sim;Não sei;Sim;Não;Não;Satisfeito;Sim;Sim;6;Detratores
+2023/05/11 10:27:31 PM GMT-3;Daniela;47;Feminino;Rio de Janeiro;RJ;Sim;Sim;Neutro;Pode Melhorar;Não;Não sei;Não;Desconheço;Não;Neutro;Não;Não;6;Detratores
+2023/05/12 10:15:02 PM GMT-3;Mateus Carvalho Dias;26;Masculino;Londrina;PR;Sim;Sim;Muito Satisfeito;Sim;Não;Sim;Não;Não;Não;Muito Satisfeito;Sim;Sim;10;Promotores
+2023/05/14 12:24:24 PM GMT-3;Moises Souza Ferreira;27;Masculino;São Paulo;SP;Sim;Sim;Satisfeito;Sim;Não;Não sei;Sim;Não;Não;Satisfeito;Não;Desconheço Função;9;Promotores
